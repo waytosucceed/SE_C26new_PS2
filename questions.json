@@ -1,0 +1,236 @@
+{
+  "heading": "Triangle",
+  "topics": [
+    {
+      "heading": "Triangle",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": ["A polygon has 11 angles. How many diagonals does it have?"],
+    "options": [
+      { "text": "44" },
+      { "text": "48" },
+      { "text": "50" },
+      { "text": "52" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 2,
+    "question": ["By counting, you find a polygon has 6 corners. How many diagonals are there?"],
+    "options": [
+      { "text": "9" },
+      { "text": "10" },
+      { "text": "12" },
+      { "text": "15" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/9.png"
+  },
+  {
+    "questionNo": 3,
+    "question": ["A polygon is drawn. How many diagonals does it have?"],
+    "options": [
+      { "text": "36" },
+      { "text": "40" },
+      { "text": "54" },
+      { "text": "60" }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/10.png"
+  },
+  {
+    "questionNo": 4,
+    "question": ["In a regular polygon, each vertex connects to all other vertices except itself and its two neighbours.<br>If each vertex connects to 5 others, how many sides does the polygon have?"],
+    "options": [
+      { "text": "8" },
+      { "text": "7" },
+      { "text": "9" },
+      { "text": "10" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 5,
+    "question": ["From one corner of a polygon, 4 diagonals can be drawn. How many sides does it have?"],
+    "options": [
+      { "text": "6" },
+      { "text": "7" },
+      { "text": "8" },
+      { "text": "9" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 6,
+    "question": ["From each vertex of a polygon, you can draw 7 diagonals. How many sides does it have?"],
+    "options": [
+      { "text": "8" },
+      { "text": "9" },
+      { "text": "10" },
+      { "text": "11" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 7,
+    "question": ["From each corner of a hexagon, how many diagonals can you draw?"],
+    "options": [
+      { "text": "2" },
+      { "text": "3" },
+      { "text": "4" },
+      { "text": "5" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 8,
+    "question": ["A polygon is drawn with all sides equal. You count 8 vertices. How many diagonals does it have?"],
+    "options": [
+      { "text": "20" },
+      { "text": "24" },
+      { "text": "28" },
+      { "text": "16" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 9,
+    "question": ["A polygon has n sides, and the number of diagonals is three times the number of its sides. What is the value of n?"],
+    "options": [
+      { "text": "8" },
+      { "text": "9" },
+      { "text": "10" },
+      { "text": "12" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 10,
+    "question": ["The number of diagonals in a polygon is exactly twice the number of sides of a pentagon. Which polygon is it?"],
+    "options": [
+      { "text": "Triangle" },
+      { "text": "Hexagon" },
+      { "text": "Octagon" },
+      { "text": "None of these" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 11,
+    "question": ["The sum of all three exterior angles of any triangle is always:"],
+    "options": [
+      { "text": "90°" },
+      { "text": "180°" },
+      { "text": "270°" },
+      { "text": "360°" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 12,
+    "question": ["One of the interior angles of a triangle is 75°. What is the exterior angle at the same vertex?"],
+    "options": [
+      { "text": "95°" },
+      { "text": "105°" },
+      { "text": "110°" },
+      { "text": "120°" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 13,
+    "question": ["A triangle has two angles measuring 40° and 80°. What is the measure of the exterior angle at the third vertex?"],
+    "options": [
+      { "text": "120°" },
+      { "text": "100°" },
+      { "text": "60°" },
+      { "text": "80°" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 14,
+    "question": ["The exterior angle at a vertex of a triangle is 95°. One of the opposite interior angles is 35°. What is the other opposite interior angle?"],
+    "options": [
+      { "text": "55°" },
+      { "text": "65°" },
+      { "text": "45°" },
+      { "text": "60°" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 15,
+    "question": ["Find the size of one exterior angle for a regular quadrilateral."],
+    "options": [
+      { "text": "60°" },
+      { "text": "72°" },
+      { "text": "80°" },
+      { "text": "90°" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 16,
+    "question": ["Find the size of one exterior angle for a regular octagon."],
+    "options": [
+      { "text": "45°" },
+      { "text": "40°" },
+      { "text": "50°" },
+      { "text": "60°" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 17,
+    "question": ["Each of the exterior angles of a regular polygon is 40°. How many sides does it have?"],
+    "options": [
+      { "text": "8 sides" },
+      { "text": "9 sides" },
+      { "text": "10 sides" },
+      { "text": "12 sides" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 18,
+    "question": ["A regular polygon has an exterior angle measuring 120°. How many sides does it have?"],
+    "options": [
+      { "text": "2 sides" },
+      { "text": "3 sides" },
+      { "text": "4 sides" },
+      { "text": "6 sides" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 19,
+    "question": ["The size of each exterior angle of a regular polygon is 72°. How many sides does the polygon have?"],
+    "options": [
+      { "text": "4 sides" },
+      { "text": "5 sides" },
+      { "text": "6 sides" },
+      { "text": "8 sides" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 20,
+    "question": ["Find the size of one exterior angle for a regular 12-sided polygon."],
+    "options": [
+      { "text": "20°" },
+      { "text": "25°" },
+      { "text": "30°" },
+      { "text": "40°" }
+    ],
+    "answer": 2
+  }
+]
+
+
+
+
+    }
+  ]
+}
